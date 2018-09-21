@@ -1,0 +1,29 @@
+_repo: The-Story-of-a-Baby_53864
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Turner, Ethel Sybil
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '1561'
+    url: http://www.gutenberg.org/2009/agents/1561
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_Turner
+description: ''
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Australia -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- GITenberg
+title: The Story of a Baby
+url: http://www.gutenberg.org/ebooks/53864
